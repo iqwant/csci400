@@ -1,0 +1,61 @@
+
+.slide{
+	text-align: center;
+	color: white;
+		font-family:gabriola;
+
+}
+
+
+.slide1{
+	text-align: left;
+	color:white;
+		font-family:gabriola;
+	font-size:100%;
+	text-align: center;
+}
+
+.font{
+		color: white;
+		font-family:gabriola;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+div.polaroid {
+  width: 1000px;
+  background-color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 55px;
+  height:650px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+
+}
+
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  margin-left: 100px;
+}
+
+/* Clearfix (clear floats) */
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
